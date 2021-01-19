@@ -24,7 +24,7 @@
         BitShares Mobile ticaretine girdiğinizde ve BitShares Mobile aracılığıyla diğer kullanıcılarla ticaret yaptığınızda aşağıdaki ticaret kurallarına uyacağınıza söz verirsiniz. <br>
         3.2 İşlem Bilgilerine Göz Atın <br>
         BitShares Mobile'da alım satım bilgilerine göz attığınızda fiyat sipariş miktarı işlem ücreti satın alma yönü veya satış yönü dahil ancak bunlarla sınırlı olmamak üzere alım satım bilgilerinde yer alan tüm içeriği dikkatlice okumalısınız. İşlem yapmak için düğmeye tıklamadan önce işlem bilgilerinde bulunan tüm içeriği tamamen kabul edebilirsiniz. <br>
-        3.3 İşlem komisyonunu gönderin <br>
+        3.3 İşlem Komisyonunu Gönderin <br>
         İşlem bilgilerini kontrol etmeyi bitirdikten sonra, işlem komisyonunu gönderebilirsiniz.BitShares Mobile'a karşılık gelen işlem kombinasyonunu yapmanız için vekillik yapması için yetki verdiğiniz anlamına gelir. BitShares Mobile, emanet ettiğiniz fiyatı karşılayan bir işlem olduğunda BitShares siparişine bir sipariş verir ve size önceden bildirimde bulunmaksızın eşleşen işlemi tamamlar. <br>
         3.4 İşlem ayrıntılarını görüntüleyin <br>
         İşlem kaydınızın ayrıntılarını onaylamak için Yönetim Merkezinin işlem ayrıntılarında ilgili işlem kaydını kontrol edebilirsiniz. <br>
