@@ -1,4 +1,4 @@
-<h1> Kullanıcı Sözleşmesi <h1>  Türkçe (Turkish) <p> User agreement </p> </h1>
+<h1> Kullanıcı Sözleşmesi <h1>  Türkçe (Turkish) <p> User Agreement </p> </h1>
   <br>
   
   <p> It is a Turkish language translation test. For testing purposes. Original text link; https://github.com/bitshares/bitshares.org/blob/master/Terms-of-Use.md </p>
