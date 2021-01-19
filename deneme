@@ -1,4 +1,0 @@
-deneme
-deneme
-deneme
-deneme
