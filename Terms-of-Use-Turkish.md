@@ -8,7 +8,7 @@
    <p> <b> I . Hizmet Öğesi </b> <br>
         1.1 BitShares Mobile'daki her dijital varlığın gerçek zamanlı fiyat teklifine ve alım satım bilgilerine göz atma hakkına ve bu uygulama aracılığıyla dijital varlık alım satım siparişini verme ve dijital varlık alım satım işlemlerini tamamlama hakkına sahipsiniz. <br>
         1.2 Hesabınızın bilgilerini BitShares Mobile altında görüntüleme ve BitShares Mobile tarafından sağlanan tüm işlevleri kullanma hakkına sahipsiniz. <br>
-        1.3 Ve BitShares Mobile'ın size sağladığı diğer hizmetler;.
+        1.3 Ve BitShares Mobile'ın size sağladığı diğer hizmetler.
    </p> <br>
 
    <p> <b> II . Hizmet Disiplini </b> <br>
