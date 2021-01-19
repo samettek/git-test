@@ -1,6 +1,6 @@
-<h1> User Agreement   <h1> Kullanıcı Sözleşmesi <p>  </p> </h1>
+<h1> User Agreement   <h1> Kullanıcı Sözleşmesi <p> <br> Türkçe (Turkish) </p> </h1>
   <br>
-  <p> Türkçe (Turkish) </p>
+  
   <p> It is a Turkish language translation test. For testing purposes. Original text link; https://github.com/bitshares/bitshares.org/blob/master/Terms-of-Use.md </p>
   
   <p> BitShares Mobile merkezi olmayan bir blok zinciri uygulamasıdır. Kullanmadan önce lütfen blok zinciri teknolojisi bilgisini tam olarak anlayın ve merkezi olmayan cüzdanı doğru şekilde kullanma ve yönetme konusunda temel beceriye sahip olun. </p>
