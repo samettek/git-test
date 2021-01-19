@@ -37,4 +37,4 @@
         4.2 BitShares Mobile ekibi bu anlaşmanın nihai yorumunu yapma hakkını saklı tutar.
   </p> 
   
-  <p> ST <p/> <br>
+  <p> Samet TEK <p/> <br>
