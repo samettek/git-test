@@ -28,11 +28,11 @@
         İşlem bilgilerini kontrol etmeyi bitirdikten sonra, işlem komisyonunu gönderebilirsiniz.BitShares Mobile'a karşılık gelen işlem kombinasyonunu yapmanız için vekillik yapması için yetki verdiğiniz anlamına gelir. BitShares Mobile, emanet ettiğiniz fiyatı karşılayan bir işlem olduğunda BitShares siparişine bir sipariş verir ve size önceden bildirimde bulunmaksızın eşleşen işlemi tamamlar. <br>
         3.4 İşlem ayrıntılarını görüntüleyin <br>
         İşlem kaydınızın ayrıntılarını onaylamak için Yönetim Merkezinin işlem ayrıntılarında ilgili işlem kaydını kontrol edebilirsiniz. <br>
-        3.5 Siparişleri iptal etme <br>
+        3.5 Siparişleri İptal Etme <br>
         Siparişi iptal etme hakkına sahipsiniz.
   </p> <br>
 
-  <p> <b> IV. Anlaşmanın geçerliliği ve yorumu </b> <br>
+  <p> <b> IV. Anlaşmanın Geçerliliği ve Yorumu </b> <br>
         4.1 Oturum açmak, kayıt işlemini tamamlamak ve bir BitShares Mobile hesabı ve şifresi almak için BitShares Mobile'a tıkladığınızda, bu sözleşme yürürlüğe girecek ve sizin için yasal olarak bağlayıcı olacaktır. <br>
-        4.2 BitShares Mobile ekibi, bu anlaşmanın nihai yorumunu yapma hakkını saklı tutar.
+        4.2 BitShares Mobile ekibi bu anlaşmanın nihai yorumunu yapma hakkını saklı tutar.
   </p>
